@@ -1,0 +1,15 @@
+{
+  "decks": [
+    {
+      "name": "Ciara Thyne's Deck ",
+      "description": "Thinkful Study ",
+      "id": 1
+    },
+    {
+      "name": "Test Deck",
+      "description": "testing out the deck ",
+      "id": 2
+    }
+  ],
+  "cards": []
+}
